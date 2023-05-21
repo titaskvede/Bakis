@@ -1,0 +1,11 @@
+Valuable links:
+Models and APIs: https://platform.openai.com/docs/models/overview
+openai.Creation: https://platform.openai.com/docs/api-reference/chat/create
+
+Words and pages:
+    Dominyka: 4237, 30
+    Karolis: 6000, 31
+    Lukas:
+    Aiste:
+    Kara1 kursinis: 10000, 37
+    Kara2 magistras: 22000, 81 xD ok
